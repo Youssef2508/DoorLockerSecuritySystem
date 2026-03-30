@@ -26,14 +26,14 @@ Build a reliable and secure embedded system that:
 - Timer + UART
 
 ⚙️ Features
-🔑 Password-based authentication (stored in EEPROM)
-🔁 Password confirmation during setup
-🚪 Motorized door control (unlock/lock)
-👀 Motion detection using PIR sensor
-🔔 Buzzer alarm on multiple failed attempts
-🔄 Password change functionality
-🔒 Security lock after 3 incorrect attempts (1 minute lockout)
-📡 UART communication between ECUs
+- Password-based authentication (stored in EEPROM)
+- Password confirmation during setup
+- Motorized door control (unlock/lock)
+- Motion detection using PIR sensor
+- Buzzer alarm on multiple failed attempts
+- Password change functionality
+- Security lock after 3 incorrect attempts (1 minute lockout)
+- UART communication between ECUs
 
 🔄 System Workflow
 1️⃣ Setup Password
